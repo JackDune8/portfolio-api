@@ -11,5 +11,8 @@
     "url": "https://github.com/JackDune8/portfolio-api.git"
   },
   "author": "jack Dune",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
